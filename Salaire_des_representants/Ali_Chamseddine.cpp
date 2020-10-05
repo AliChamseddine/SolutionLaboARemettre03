@@ -54,7 +54,7 @@ int main()
 
 	   //Calcule afin d'obtenir le salaire
        
-	   if ();
+	   // je ne c'est pas quoi mettre ici pour if
 
 	   {
 		   std::cout << " Votre salaire est de:"; //Sa dit la réponse final du calcul
